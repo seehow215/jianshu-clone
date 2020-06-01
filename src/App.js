@@ -1,10 +1,13 @@
 import React from 'react';
+import { Provider } from 'react-redux';
+import Header from './common/header';
+import store from './store';
 
 function App() {
   return (
-    <div className="App">
-      hello world
-    </div>
+    <Provider store={store}>
+      <Header />
+    </Provider>
   );
 }
 
