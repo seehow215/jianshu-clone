@@ -1,6 +1,6 @@
 ## About the Project
 
-This is a personal front end demo project cloning Jianshu(简书), a Chinese writing and blogging website.
+This is a personal front end project cloning Jianshu(简书), a Chinese writing and blogging website.
 
 ## Development Stack
 
