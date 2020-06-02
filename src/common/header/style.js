@@ -2,7 +2,8 @@ import styled from 'styled-components'
 import logoPic from '../../static/logo.png'
 
 export const HeaderWrapper = styled.div`
-  positon: relative;
+  z-index: 1;
+  position: relative;
   height: 58px;
   border-bottom: 1px solid #f0f0f0;
 `;
@@ -139,7 +140,6 @@ export const Addition = styled.div`
   right: 0;
   top: 0;
   height: 56px;
-  width: 960px;
 `;
 export const Button = styled.div`
   float: right;
