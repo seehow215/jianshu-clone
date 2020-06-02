@@ -4,11 +4,11 @@ This is a personal front end demo project cloning Jianshu(简书), a Chinese wri
 
 ## Development Stack
 
-###Main front end framework: 
+### Main front end framework: 
 
 React.JS
 
-###Third-party libraries: 
+### Third-party libraries: 
 
 react-router-dom
 
